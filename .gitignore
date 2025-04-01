@@ -4,3 +4,5 @@ uploads/
 
 *.zip
 *.gz
+config.bat
+node_modules
